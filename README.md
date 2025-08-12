@@ -1,1 +1,1 @@
-Part of the course Algorithm and Complexity course. The details of the assignment are in the assignment pdf and the solution in the python file.
+This project was completed as part of the Algorithms and Complexity course. Assignment details can be found in the provided PDF, while the implementation is in the accompanying Python file. The solution makes use of NumPy for efficient numerical operations.
